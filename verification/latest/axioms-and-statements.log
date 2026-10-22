@@ -1,0 +1,1488 @@
+AUDIT|GaussianComparison.GaussianModel.ballSecondCountableTopology._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.chi_eq_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingModifiedChi_rate_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.contDiff_chi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_chiSqFisherTrace|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_hasGradientAt_score|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generatorFisherTrace_kl|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generatorTimeJet|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.GaussianEnvelope.0.GaussianMixturePaper.normalizer_mul_wide_gaussian|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.mixtureMeasure_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_3|propext
+AUDIT|GaussianMixturePaper.density_contDiff_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_8|propext
+AUDIT|GaussianMixturePaper.aestronglyMeasurable_derivative_section|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_phi_mul_exp_norm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_chiSq_reverse|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel._proof_1|propext
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.phi_mul_kernel|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_1|propext
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_hellingerSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.finiteDivergences_meanScaled_global|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instBorelSpaceBall|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.affinity.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.PositiveC2Generator.compensated_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawAffinity_deriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_8|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.log_partition_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.posteriorMean.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.weightedPartition_hasDerivAt_spatialLine|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_chiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledKernel_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.scaledRatioSquare_gradient_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integral_meanScaledDensity_global|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.exp_twice_halfLogRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.gaussian_integrable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instBorelSpaceBall._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_1|propext
+AUDIT|GaussianComparison.kl_self|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRatioSquare_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_4|propext
+AUDIT|GaussianMixturePaper.density_line_second_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.hellinger_interpolation_monotone|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generatorFisherTrace_chiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimalChiSq_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.tendsto_boundaryTerm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_7|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.shifted_gaussian_mul_envelope|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.scaledPartition_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_8|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_7|propext
+AUDIT|GaussianMixturePaper.integral_PA_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scoreFisherMatrix._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_jointExponent|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubicDeriv_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimalKL_asymptotic|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianNoise._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledKLIntegrandDot|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledGap.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_3|propext
+AUDIT|GaussianMixturePaper.rawAffinity.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaling_weak_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_log_partition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.priorVector_independent_noise|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.mixtureDensity_ballPrior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.paperGenerator_admissible|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.DensityPDE.0.GaussianMixturePaper.expGrowth_identity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.observationMeasure.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.mixtureMeasure.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScaledGap|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.scoreFisherTrace_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_1|propext
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.scaledRatio_gradient_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSq_positiveC2Generator|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.second_deriv_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_deriv_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posterior_is_conditionalExpectation|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.deriv_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussian_expGrowth_decay|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.phi_hasFDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_3|propext
+AUDIT|GaussianComparison.FiniteDivergences.positive_p|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.DensityPDE.0.GaussianMixturePaper.expGrowth_vector_add|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaling_rate_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.paperGenerator_differentiable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.normalizer_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integral_meanScaledDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingKLRate._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.hellingerSq_ambient_eq_zero_iff|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.const._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.densityFDivergence_chiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_2|propext
+AUDIT|GaussianMixturePaper.lemma4_nonnegative_envelopes|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.hellingerSq.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_hasDerivAt_spatialLine|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.chiSq.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ballT2Space._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_likelihoodScore|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingAffinity_derivative_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_posteriorMean|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.jeffreysRatio._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledPartitionDDot|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_smul_posterior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.raw_ratio_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianNoise.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_4|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.chi_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimalChiSq_log_asymptotic|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.growthSecond|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.weightedPartition_contDiff_joint_nat|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generator_integrand_factorization|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingAffinity_eq_gaussian_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.hellingerSq_eq_masses_sub_affinity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integral_QC_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.hasFirst|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.contDiff_meanScalingKL|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_p|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.sq_norm_meanScaledGap_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.jeffreysRatio._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PC._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_8|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingModifiedChi._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.symmetrized_kl_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma3_exponential|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.kl_shift_pair|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_1|propext
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.PC_le_wide|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_meanScaledDensity_global|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_meanScalingHellingerRate_integrand|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_affinity_rate_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.partition_zero_zero|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand._proof_2|propext
+AUDIT|GaussianMixturePaper.optimalChiSq_exponential_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generator_ratio_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_hasDerivAt_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_7|propext
+AUDIT|GaussianComparison.FiniteDivergences.mass_q|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_1|propext
+AUDIT|GaussianMixturePaper.logRatio_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.abs_kl_integrand_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimalKL_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.meanScaledGap_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingModifiedChi_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianChar_shift|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawKL_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_5|propext
+AUDIT|GaussianMixturePaper.opposite_gaussian_jeffreys|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integral_PC_add_QC_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.dominated_differentiation_local|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.densityFDivergence_kl|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.chiSq_self|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpnessMean.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.lipschitz_psi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.generator_radial_flux_decay|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.JointC12.space_derivative_differentiable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.coordinateDivergence._proof_1|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.cubicDeriv.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_4|propext
+AUDIT|GaussianMixturePaper.posteriorKernel_isMarkovKernel|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_ratio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.paperGeneratorDensity_contDiff_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_9|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.integrable_kl_of_ratio_square|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledPrior_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_le_of_nonneg_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussian_linear_envelope|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_envelopes|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_continuous|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_finite|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.deBruijn_matrix|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posterior_is_conditionalExpectation_independent|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSqRate._proof_1|propext
+AUDIT|GaussianMixturePaper.continuous_posteriorWeight|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_eq_globalMixture|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.const._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.integrable_mixture_kernel|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussian_component_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimalKL_leading_coefficient|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalGeneratorGrowth.second|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_deriv_time_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScaledDensity_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instTopologicalSpaceBall._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_coordinateDivergence|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.exp_neg_square_tendsto_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubicDeriv._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_4|propext
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integral_PA_add_QA_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PA.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerFisherTrace._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.globalScaledPrior_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.continuous_psiDeriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integrable_gaussian_polynomial_exponential|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_1|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.tendsto_integral_mul_chi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.boundaryTerm_bound_of_integral_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledPosterior_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrandDot_continuous|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledAffinityIntegrand_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.kl_add_reverse|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._proof_1_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.const._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_3|propext
+AUDIT|GaussianMixturePaper.integral_PC_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRatio.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.remark1_hellinger_denominator_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PJ._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.integrable_meanScalingModifiedChi_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integrable_scaled_likelihood_product|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.fisher_generator_weights|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalGeneratorGrowth.first|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_eq_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_weight_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartition_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_7|propext
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellinger_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.klExampleRatio._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrandDot_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianNoise_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integral_phi_sub|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_hasFDerivAt_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.mixture_char_factorization|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawKL_deriv_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimal_constant_denominator_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledAffinityIntegrandDot_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.posterior_gap_inner|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_1|propext
+AUDIT|GaussianMixturePaper.lemma4_from_ae_contDiff|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.continuousSecond|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellinger_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.mixtureMeasure._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_partition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.log_partition_contDiff_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_11|propext
+AUDIT|GaussianComparison.GaussianModel.integrable_densityFDivergence_hellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerFisherTrace.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartition_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partitionTimeJet._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_half_posteriorMean_sub_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellinger_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.log_meanScaledDensity_ratio_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.inner|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubic_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.shifted_gaussian_abs_integral_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_5|propext
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_2|propext
+AUDIT|GaussianMixturePaper.phi_line_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.integrable_klFisherTrace|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartitionDDot_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.const._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_9|propext
+AUDIT|GaussianComparison.GaussianModel.JointC12.continuous_space_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.hellingerSq_mixture_eq_zero_iff|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.log_partition_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma6_rpow_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma3_polynomial|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.QC._proof_2|propext
+AUDIT|GaussianMixturePaper.opposite_gaussian_ratio_square|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.generatorFisherTrace_hellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_2|propext
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_8|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scoreFisherTrace._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_7|propext
+AUDIT|GaussianMixturePaper.norm_sharpnessMean|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_lower_of_nonneg_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.contDiff_psi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScalingJeffreys|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_eq_gaussian_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.const._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_explicit_finiteness_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.one_div_cosh_eq_exp_twice|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_7|propext
+AUDIT|GaussianMixturePaper.density_hasDerivAt_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.mixtureDensity_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.integrable_chiSq_of_ratio_square|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.ambientMixtureDensity_injective_ae|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_2|propext
+AUDIT|GaussianMixturePaper.lemma4_dominated_differentiation|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_secondDeriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.kl.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.add|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_affinity_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledPartitionDot|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.contDiff_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.scaledKLIntegrand_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledLogRatio_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_contDiff_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_mixtureDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.instTopologicalSpaceBall._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.scoreFisherMatrix._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.add|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.const|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_eq_partition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psiDeriv.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.appendix_raw_domination|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.remark1_gaussian_formulas|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.generalFDivergence_derivative_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instCompactSpaceBall|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSq_localGeneratorGrowth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryKL.kl_comparison_of_derivative_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellingerRate_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledAffinityIntegrand_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_chiSq_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.paperGenerator_convex._simp_1_1|propext
+AUDIT|GaussianComparison.ElementaryKL.density_weight_split_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_2|propext
+AUDIT|GaussianMixturePaper.meanScaledDensity_dirac|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.mul|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledPartition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma2_gaussian_integration_by_parts|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.continuous|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_9|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.const._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.deBruijn_hellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_kernel_smul|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_scoreFisherTrace|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledAffinityIntegrandDot|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledChiIntegrandDot|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRootRatio_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.continuousOn_meanScalingModifiedChi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScaledGap_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.chi_eq_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianChar_ne_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_hasDerivAt_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.phi_sub_fderiv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_phi_sub|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.PositiveC2Generator.continuous_first|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingKL_eq_gaussian_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.JointC12.space_differentiable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.one_add_radius_pow_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubic_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_meanScaledDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cutoff_integration_by_parts|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.klRatioSet_bddAbove|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.PositiveC2Generator.first|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_9|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_8|propext
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_1|propext
+AUDIT|GaussianComparison.sqrt_mul_eq_exp_halfLogRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_4|propext
+AUDIT|GaussianMixturePaper.paperGenerator_boundary_conditions|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.sub|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.paperGenerator_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorKernel.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.neg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.pow|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.finiteDivergences_of_ratio_square|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_5|propext
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hasDerivAt_gaussian_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_map_fst|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledAffinityIntegrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.chiSq_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_time_weight_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_3|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.inner_gradient_chi_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_4|propext
+AUDIT|GaussianMixturePaper.opposite_gaussian_hellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrandDot.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFDivergence_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.integrable_densityFDivergence_chiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.elementary_gaussian_kl_comparison|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instMeasurableSpaceBall._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_phi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_8|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_phi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.observationMeasure_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_2|propext
+AUDIT|GaussianComparison.terminal_hellinger_eta_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellinger_positiveC2Generator|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.hellingerSq_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_weight|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.affinity_le_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.hellinger_interpolation_range|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integrable_meanScaledDensity_all|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_secondDeriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_5|propext
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_6|propext
+AUDIT|GaussianMixturePaper.density_contDiff_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_coordinateLaplacian|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.mul|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.theorem1_ambient|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.continuousFirst|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.lipschitz_chi|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.PositiveC2Generator.second|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ballSecondCountableTopology|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_le_abs_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.boundaryTerm._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_affinity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.modifiedIntegrand._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.mixture_ratio_square_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.integrable_generatorFisherMatrix_entry|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRatio_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.posteriorMean_contDiff_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.phi.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_zero|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_globalScalingMap|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.independent_observation_eq_posteriorJoint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_backward_heat|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_hasFDerivAt_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.tendsto_chi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.paperGenerator_derivative_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_3|propext
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.priorScalingMap._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellinger_localGeneratorGrowth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.mixtureDensity_dirac_fun|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubic._proof_2|propext
+AUDIT|GaussianComparison.GaussianModel.contDiff_meanScalingChiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.log_optimalChiSq_error_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.boundaryTerm_integrable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellinger.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledLogRatio.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.continuous_priorScalingMap|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ballT2Space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.measurable_sections_of_jointly_measurable_on|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledPrior.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_4|propext
+AUDIT|GaussianMixturePaper.posteriorWeight.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.log_partition_jointC12|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_3|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.shifted_gaussian_envelope|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.likelihoodScore._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawAffinity_deriv_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.general_generatorDensityWeight_regular|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_5|propext
+AUDIT|GaussianMixturePaper.integral_posteriorWeight|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawAffinity_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partitionTimeJet._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.mixtureDensity_injective|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussian_component_deriv_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.halfLogRatio._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingKLRate._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_4|propext
+AUDIT|GaussianMixturePaper.rawChi_deriv._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.sqrt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.likelihoodScore_norm_sq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.chi.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.scaledRatio_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_7|propext
+AUDIT|GaussianComparison.FiniteDivergences.integrable_q|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqRatioSet_bddAbove|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_3|propext
+AUDIT|GaussianComparison.one_div_cosh_halfLogRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.ratio_rpow_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mk.injEq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_deriv_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.JointC12.continuous_space_second_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mk.sizeOf_spec|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawChi_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.halfLogRatio.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.terminal_hellinger_identity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledPosterior.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.phi_mul_kernel_mean_scaling|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRatio_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.scaledLogRatio_gradient_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.coordinateLaplacian_partition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.observationMeasure._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_generator_ratio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generatorDensityWeight_regular|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.chiSq_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.PositiveC2Generator.continuous_second|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.densityFDivergence_hellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.boundaryTerm_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_3|propext
+AUDIT|GaussianComparison.density_sub_le_kl_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.independent_observation_joint_density|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_2|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.gaussian_integration_by_parts_via_cutoff|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.likelihoodScore_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScalingChiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.kl_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_radial_component_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_mul_meanScaledGap_sq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrandDot_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.aestronglyMeasurable_derivative_section._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.partitionTimeJet._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.raw_logRatio_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_hellingerFisherTrace|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint_eq_density._simp_1_10|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_2|propext
+AUDIT|GaussianMixturePaper.measurableSet_priorBall|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.PA_le_wide|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_7|propext
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_gradient_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.JointC12.continuous_time_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_chiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integral_density_deriv_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRootRatio_eq_exp|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.hellinger_integrand_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.general_deBruijn_matrix|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.boundaryTerm.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generatorFisherMatrix_trace|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_scaledPartitionDot_mul|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.mixtureDensity_dirac|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledKLIntegrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.growthFirst|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_kl|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_meanScaledDensity_mul_inner|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.phi_line_derivative_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.appendix_envelopes_integrable|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.smul|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integrable_posteriorWeight|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_hasDerivAt_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.phi_mean_scaling_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.mono|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.contDiff_meanScalingHellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_8|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partitionTimeJet._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_meanScaledPosterior_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.elementary_gaussian_chiSq_max_comparison|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.densityFDivergence_eq_generalFIntegrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.aestronglyMeasurable_derivative_section_on|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_line_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubic_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.observationPair.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.const|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.gradient_chi_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.terminal_chiSq_identity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.reparam|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integral_mixtureDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.aestronglyMeasurable_derivative_section._simp_1_2|propext
+AUDIT|GaussianMixturePaper.chiSq_comparison_factor36|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.globalScalingMap._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.mixtureDensity_injective_ae|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.terminal_kl_identity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kl_localGeneratorGrowth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_mixtureDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_gaussian_integral|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.SecondTimeRegularity.0.GaussianComparison.GaussianModel.paperGeneratorDensity_second_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianChar_shift._simp_1_1|
+AUDIT|GaussianMixturePaper.sharpnessMean._proof_1|propext
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_7|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledLogRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.norm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.normalizer.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.meanScaledPosterior_dirac|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScaledDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledLogRatio_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.paperGeneratorDensity_time_derivatives_local_envelope|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianChar._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.comparison_of_derivative_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_chiSq_max._simp_1_1|
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubic._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.mixtureDensity_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorKernel._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.phi_mul_partition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.log_meanScaledDensity_ratio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scoreFisherTrace._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartitionDDot.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScaledPosterior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_affinity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hasFDerivAt_integral_compact_prior_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.shifted_gaussian_mul_integrable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.neg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_jointC12|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianChar._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussian_polynomial_envelope|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma2_with_gradient_field|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.terminal_hellinger_eta_identity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.mass_p|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integral_meanScaledDensity_all|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.norm_meanScaledGap_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.hellingerSq_le_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.elementary_theorem31|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellingerRate._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingKL_derivative_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.hellingerSq_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.hellingerSq_mixture_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.scaledAffinityIntegrandDot._proof_1|propext
+AUDIT|_private.GaussianMixturePaper.Identifiability.0.GaussianMixturePaper.char_norm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_2|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.gaussian_integrable_prod|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.fixed_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.map_ballPrior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellinger_eq_affinity_global|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_2|propext
+AUDIT|GaussianComparison.FiniteDivergences.integrable_kl_reverse|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.density_ratio_eq_scaledRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_3|propext
+AUDIT|GaussianMixturePaper.sharpnessMean._proof_2|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.integration_by_parts_via_cutoff|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.generator_gradient_flux_decay|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_8|propext
+AUDIT|GaussianMixturePaper.posteriorKernel_apply|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scalingParameter_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.affinity_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_2|propext
+AUDIT|GaussianComparison.GaussianModel.paperGeneratorDensity_time_derivatives_integrable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_hasDerivAt_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.integral_QA_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_secondDeriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.contDiff_meanScalingAffinity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.hasSecond|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledWeight_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_5|propext
+AUDIT|GaussianComparison.tanh_eq_exp_twice._simp_1_6|propext
+AUDIT|GaussianMixturePaper.density_time_derivative|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma6_gradient|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingKL_hasDerivAt_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.integrable_ratio_square|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_inner_posterior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.log|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hasDerivAt_integral_compact_prior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.deriv_partition_time|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingModifiedChi_eq_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_2|propext
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.generalFDivergence_contDiff_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.independent_observation_law|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_hellinger_integrand._simp_1_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.paperGenerator_general_deBruijn|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledRootRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorWeight_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_kernel_prior|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_meanScalingKLRate_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorJoint.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scoreFisherMatrix_trace|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.scaledPartition.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.positive_q|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kl_positiveC2Generator|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledKLIntegrand_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.elementary_gaussian_chiSq_comparison|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.optimalChiSq_leading_exponent|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.finiteDivergences_shift_pair|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubicDeriv_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingJeffreys_hasDerivAt_global|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.hellinger_interpolation_monotone._simp_1_1|propext
+AUDIT|GaussianMixturePaper.PaperCutoff.gaussian_boundaryTerm_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.add._proof_8|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_hasDerivAt_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.generator_density_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRootRatio_gradient_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_hasDerivAt_spatialLine|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.deBruijn_chiSq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingHellinger_hasDerivAt_global|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_10|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.contDiff_one_gaussian_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psiDeriv_bound|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.log._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_eq_cubic|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianNoise._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instMeasurableSpaceBall._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.meanScalingKL_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_mixture_ratio_square|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.radius_pow_le_factorial_exp|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_densityFDivergence_paper|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_5|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_9|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartitionDot._proof_1|propext
+AUDIT|GaussianComparison.tanh_halfLogRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.deBruijn_three_generators|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.kl_nonneg|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.opposite_gaussian_chiSq_max|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.ballPrior_isProbabilityMeasure|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingChiSq_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.log_partition_continuous_iteratedFDeriv_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_kernel|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.paperGenerator_convex|propext,Classical.choice,Quot.sound
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_4|propext
+AUDIT|_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.meanScaling_kl_comparison_of_derivatives|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.chi_eventually_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integral_phi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.lemma6_log_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.appendixK.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.chiSqFisherTrace.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.observationMeasure._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.finiteDivergences_mixture|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.sqrt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.globalScaledPrior.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.gradient_log_partition|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.elementary_theorem32|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.chi_range|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sqrt._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.QC._proof_1|propext
+AUDIT|GaussianComparison.GaussianModel.jointExponent_apply|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.chi_hasCompactSupport|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._proof_7|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqExampleRatio_asymptotic|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.of_bounded|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.phi_pos|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_scoreFisherMatrix_entry|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.weightedPartition_contDiff_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaling_chiSq_comparison|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_continuous_iteratedFDeriv_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalGeneratorGrowth.value|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.ExpGrowth.radius|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingModifiedChi_zero|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.instMeasurableSpaceBall._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartitionDot_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.PositiveC2Generator.continuous_value|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_weight|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingModifiedChi.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledRootRatio.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartitionDot_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.jeffreysRatio_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mul._proof_5|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingAffinity_hasDerivAt_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_scaledChiIntegrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.hellingerSq_symm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.density_sub_le_kl_integrand._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.scaledRootRatio_hasGradientAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.log_partition_contDiff_joint_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.gradient_log_meanScaledDensity_ratio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.tanh_halfLogRatio._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.instTopologicalSpaceBall._proof_4|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.hellingerSq_self|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_1|propext
+AUDIT|GaussianComparison.affinity_symm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.FiniteDivergences.symm|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_PDE|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointC12_of_contDiff|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_densityFDivergence_kl|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.integrable_affinity_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partition_contDiff_joint_two|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledLogRatio_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.rawKL_deriv|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_7|propext
+AUDIT|GaussianMixturePaper.optimalKL_error_bounds|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.density_hasGradientAt_space|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.kernel_mean_scaling|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.lemma2_via_cutoff|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.sharpness_ratios_mem._simp_1_2|propext
+AUDIT|GaussianComparison.GaussianModel.mixtureDensity.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.deriv_deriv_partition_spatialLine|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.finiteDivergences_meanScaled|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.posteriorKernel_mean|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.chiSqMaxRatio_le|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.weightedPartition_hasFDerivAt_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuousOn_meanScalingHellinger|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.lemma1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.continuous_gradient_chi|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_eq_one|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledPartition_inv_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.psi_range|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.PaperCutoff.cubic.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.continuous_meanScalingAffinity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_rootRatio|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledKLIntegrandDot_growth|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.JointC12.continuous|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_exp_neg_mul_norm_sq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.klFisherTrace.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.generalFDivergence_hasDerivAt_integral|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.mk.inj|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.integrable_generalFDivergence|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.chiSq_integrand_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.jointExponent._proof_6|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.theorem1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.mixtureMeasure._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.terminal_kl_integrand._simp_1_6|propext
+AUDIT|GaussianComparison.GaussianModel.deBruijn_kl|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScalingAffinity_hasDerivAt|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_3|propext
+AUDIT|GaussianComparison.GaussianModel.hasFDerivAt_integral_compact_prior_joint|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.JointC12.time_differentiable|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand.eq_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.gaussianChar._proof_3|propext
+AUDIT|GaussianComparison.GaussianModel.TimeJet.sub._proof_3|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.LocalExpGrowth.sub|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_1|propext
+AUDIT|GaussianComparison.GaussianModel.meanScaledDensity_eq_mixtureDensity|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_4|propext
+AUDIT|GaussianComparison.GaussianModel.hellingerGenerator_integrand|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.one_div_cosh_eq_exp_twice._simp_1_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.contDiff_meanScalingJeffreys|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.partitionTimeJet._proof_1|propext,Classical.choice,Quot.sound
+AUDIT|GaussianMixturePaper.theorem1_with_finiteness|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.GaussianModel.TimeJet.inv._simp_4|propext
+AUDIT|_private.GaussianMixturePaper.SecondTimeRegularity.0.GaussianComparison.GaussianModel.paperGeneratorDensity_first_eq|propext,Classical.choice,Quot.sound
+AUDIT|GaussianComparison.ElementaryChi.polynomial_factorization|propext,Classical.choice,Quot.sound
+AUDIT_TOTAL|1105|953
+GaussianMixturePaper.theorem1 {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] :
+  GaussianComparison.kl MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+          (GaussianComparison.GaussianModel.mixtureDensity ν) +
+        GaussianComparison.kl MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity ν)
+          (GaussianComparison.GaussianModel.mixtureDensity μ) ≤
+      (2 * M ^ 2 + 4) *
+        GaussianComparison.hellingerSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+          (GaussianComparison.GaussianModel.mixtureDensity ν) ∧
+    max
+        (GaussianComparison.chiSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+          (GaussianComparison.GaussianModel.mixtureDensity ν))
+        (GaussianComparison.chiSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity ν)
+          (GaussianComparison.GaussianModel.mixtureDensity μ)) ≤
+      (18 * Real.exp (4 * M ^ 2) - 2) *
+        GaussianComparison.hellingerSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+          (GaussianComparison.GaussianModel.mixtureDensity ν)
+GaussianMixturePaper.theorem1_with_finiteness {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] :
+  GaussianComparison.FiniteDivergences MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+      (GaussianComparison.GaussianModel.mixtureDensity ν) ∧
+    GaussianComparison.kl MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+            (GaussianComparison.GaussianModel.mixtureDensity ν) +
+          GaussianComparison.kl MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity ν)
+            (GaussianComparison.GaussianModel.mixtureDensity μ) ≤
+        (2 * M ^ 2 + 4) *
+          GaussianComparison.hellingerSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+            (GaussianComparison.GaussianModel.mixtureDensity ν) ∧
+      max
+          (GaussianComparison.chiSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+            (GaussianComparison.GaussianModel.mixtureDensity ν))
+          (GaussianComparison.chiSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity ν)
+            (GaussianComparison.GaussianModel.mixtureDensity μ)) ≤
+        (18 * Real.exp (4 * M ^ 2) - 2) *
+          GaussianComparison.hellingerSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+            (GaussianComparison.GaussianModel.mixtureDensity ν)
+GaussianMixturePaper.theorem1_ambient {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Space d)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (hμ : ∀ᵐ (θ : GaussianComparison.GaussianModel.Space d) ∂μ, ‖θ‖ ≤ M)
+  (hν : ∀ᵐ (θ : GaussianComparison.GaussianModel.Space d) ∂ν, ‖θ‖ ≤ M) :
+  GaussianComparison.FiniteDivergences MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity μ)
+      (GaussianMixturePaper.ambientMixtureDensity ν) ∧
+    GaussianComparison.kl MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity μ)
+            (GaussianMixturePaper.ambientMixtureDensity ν) +
+          GaussianComparison.kl MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity ν)
+            (GaussianMixturePaper.ambientMixtureDensity μ) ≤
+        (2 * M ^ 2 + 4) *
+          GaussianComparison.hellingerSq MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity μ)
+            (GaussianMixturePaper.ambientMixtureDensity ν) ∧
+      max
+          (GaussianComparison.chiSq MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity μ)
+            (GaussianMixturePaper.ambientMixtureDensity ν))
+          (GaussianComparison.chiSq MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity ν)
+            (GaussianMixturePaper.ambientMixtureDensity μ)) ≤
+        (18 * Real.exp (4 * M ^ 2) - 2) *
+          GaussianComparison.hellingerSq MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity μ)
+            (GaussianMixturePaper.ambientMixtureDensity ν)
+GaussianComparison.GaussianModel.lemma1 {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] :
+  (∀ (s : ℝ),
+      GaussianComparison.FiniteDivergences MeasureTheory.volume (GaussianComparison.GaussianModel.meanScaledDensity μ s)
+        (GaussianComparison.GaussianModel.meanScaledDensity ν s)) ∧
+    ContDiff ℝ 1 (GaussianComparison.GaussianModel.meanScalingJeffreys μ ν) ∧
+      ContDiff ℝ 1 (GaussianComparison.GaussianModel.meanScalingChiSq μ ν) ∧
+        ContDiff ℝ 1 (GaussianComparison.GaussianModel.meanScalingHellinger μ ν) ∧
+          (∀ (s : ℝ),
+              HasDerivAt (GaussianComparison.GaussianModel.meanScalingJeffreys μ ν)
+                (GaussianComparison.GaussianModel.meanScalingKLRate μ ν s) s) ∧
+            (∀ (s : ℝ),
+                HasDerivAt (GaussianComparison.GaussianModel.meanScalingChiSq μ ν)
+                  (GaussianComparison.GaussianModel.meanScalingChiSqRate μ ν s) s) ∧
+              ∀ (s : ℝ),
+                HasDerivAt (GaussianComparison.GaussianModel.meanScalingHellinger μ ν)
+                  (GaussianComparison.GaussianModel.meanScalingHellingerRate μ ν s) s
+GaussianMixturePaper.lemma2_gaussian_integration_by_parts {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (g : GaussianComparison.GaussianModel.Space d → ℝ) (hg : ContDiff ℝ 1 g) {L c : ℝ} (hL : 0 ≤ L) (hc : 0 ≤ c)
+  (hbound : ∀ (x : GaussianComparison.GaussianModel.Space d), |g x| + ‖gradient g x‖ ≤ L * Real.exp (c * ‖x‖)) (t : ℝ) :
+  MeasureTheory.Integrable (fun x => deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t * g x)
+      MeasureTheory.volume ∧
+    MeasureTheory.Integrable
+        (fun x =>
+          GaussianComparison.GaussianModel.meanScaledDensity μ t x *
+            inner ℝ (gradient g x) (GaussianComparison.GaussianModel.meanScaledPosterior μ t x))
+        MeasureTheory.volume ∧
+      ∫ (x : GaussianComparison.GaussianModel.Space d),
+          deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t * g x =
+        ∫ (x : GaussianComparison.GaussianModel.Space d),
+          GaussianComparison.GaussianModel.meanScaledDensity μ t x *
+            inner ℝ (gradient g x) (GaussianComparison.GaussianModel.meanScaledPosterior μ t x)
+GaussianMixturePaper.lemma3_exponential (d : ℕ) (c : ℝ) :
+  ∫ (x : GaussianComparison.GaussianModel.Space d), GaussianComparison.GaussianModel.phi x * Real.exp (c * ‖x‖) ≤
+    2 ^ (↑d / 2) * Real.exp (c ^ 2)
+GaussianMixturePaper.lemma3_polynomial (d : ℕ) (c : ℝ) (k : ℕ) :
+  ∫ (x : GaussianComparison.GaussianModel.Space d),
+      GaussianComparison.GaussianModel.phi x * (1 + ‖x‖) ^ k * Real.exp (c * ‖x‖) ≤
+    2 ^ (↑k + ↑d / 2) * ↑k.factorial * Real.exp ((c + 1) ^ 2)
+GaussianMixturePaper.lemma4.{u_1} {X : Type u_1} [MeasurableSpace X] {μ : MeasureTheory.Measure X} {I : Set ℝ}
+  {H : ℝ → X → ℝ} (hI : IsOpen I) (hjoint : Measurable fun z => H (↑z.1) z.2)
+  (hC1 : ∀ᵐ (x : X) ∂μ, ContDiffOn ℝ 1 (fun t => H t x) I)
+  (hdom :
+    ∀ (a b : ℝ),
+      Set.Icc a b ⊆ I →
+        ∃ P Q,
+          Measurable P ∧
+            Measurable Q ∧
+              (∀ (x : X), 0 ≤ P x) ∧
+                (∀ (x : X), 0 ≤ Q x) ∧
+                  MeasureTheory.Integrable (fun x => P x + Q x) μ ∧
+                    ∀ᵐ (x : X) ∂μ, ∀ t ∈ Set.Icc a b, ‖H t x‖ ≤ P x ∧ ‖deriv (fun s => H s x) t‖ ≤ Q x) :
+  ContDiffOn ℝ 1 (fun t => ∫ (x : X), H t x ∂μ) I ∧
+    ∀ t ∈ I,
+      MeasureTheory.Integrable (H t) μ ∧
+        MeasureTheory.Integrable (fun x => deriv (fun s => H s x) t) μ ∧
+          HasDerivAt (fun s => ∫ (x : X), H s x ∂μ) (∫ (x : X), deriv (fun s => H s x) t ∂μ) t
+GaussianMixturePaper.density_envelopes {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T) (x : GaussianComparison.GaussianModel.Space d) :
+  GaussianComparison.GaussianModel.phi x * Real.exp (-T * M * ‖x‖ - T ^ 2 * M ^ 2 / 2) ≤
+      GaussianComparison.GaussianModel.meanScaledDensity μ t x ∧
+    GaussianComparison.GaussianModel.meanScaledDensity μ t x ≤
+      GaussianComparison.GaussianModel.phi x * Real.exp (T * M * ‖x‖)
+GaussianMixturePaper.density_hasDerivAt_time {d : ℕ} {M : ℝ}
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsFiniteMeasure μ] (t : ℝ)
+  (x : GaussianComparison.GaussianModel.Space d) :
+  HasDerivAt (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x)
+    (∫ (θ : GaussianComparison.GaussianModel.Ball d M),
+      (inner ℝ (↑θ) x - t * ‖↑θ‖ ^ 2) * GaussianComparison.GaussianModel.phi (x - t • ↑θ) ∂μ)
+    t
+GaussianMixturePaper.density_deriv_time_bound {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T) (x : GaussianComparison.GaussianModel.Space d) :
+  |deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t| ≤
+    GaussianMixturePaper.densityTimeEnvelope M T x * GaussianComparison.GaussianModel.meanScaledDensity μ t x
+GaussianMixturePaper.density_gradient_space {d : ℕ} {M : ℝ}
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsFiniteMeasure μ] (t : ℝ)
+  (x : GaussianComparison.GaussianModel.Space d) :
+  gradient (GaussianComparison.GaussianModel.meanScaledDensity μ t) x =
+    -∫ (θ : GaussianComparison.GaussianModel.Ball d M),
+        GaussianComparison.GaussianModel.phi (x - t • ↑θ) • (x - t • ↑θ) ∂μ
+GaussianMixturePaper.density_contDiff_one {d : ℕ} {M : ℝ}
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsFiniteMeasure μ] :
+  ContDiff ℝ 1 fun p => GaussianComparison.GaussianModel.meanScaledDensity μ p.1 p.2
+GaussianMixturePaper.lemma6 {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (α : ℝ) {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T)
+  (x : GaussianComparison.GaussianModel.Space d) :
+  |GaussianComparison.GaussianModel.scaledRatio μ ν t x ^ α| +
+        ‖gradient (fun y => GaussianComparison.GaussianModel.scaledRatio μ ν t y ^ α) x‖ ≤
+      (1 + 2 * |α| * T * M) * Real.exp (|α| * T ^ 2 * M ^ 2 / 2) * Real.exp (2 * |α| * T * M * ‖x‖) ∧
+    |GaussianComparison.GaussianModel.scaledLogRatio μ ν t x| +
+        ‖gradient (GaussianComparison.GaussianModel.scaledLogRatio μ ν t) x‖ ≤
+      (1 + 2 * T * M + T ^ 2 * M ^ 2 / 2) * Real.exp ‖x‖
+GaussianMixturePaper.lemma6_gradient {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (α t : ℝ) (x : GaussianComparison.GaussianModel.Space d) :
+  gradient (fun y => GaussianComparison.GaussianModel.scaledRatio μ ν t y ^ α) x =
+    (α * t * GaussianComparison.GaussianModel.scaledRatio μ ν t x ^ α) •
+      GaussianComparison.GaussianModel.meanScaledGap μ ν t x
+GaussianMixturePaper.remark1_gaussian_formulas {M : ℝ} (hM : 0 ≤ M) :
+  have p := fun x => GaussianComparison.GaussianModel.phi (x - GaussianMixturePaper.sharpnessMean M);
+  have q := fun x => GaussianComparison.GaussianModel.phi (x + GaussianMixturePaper.sharpnessMean M);
+  GaussianComparison.kl MeasureTheory.volume p q + GaussianComparison.kl MeasureTheory.volume q p = 4 * M ^ 2 ∧
+    max (GaussianComparison.chiSq MeasureTheory.volume p q) (GaussianComparison.chiSq MeasureTheory.volume q p) =
+        Real.exp (4 * M ^ 2) - 1 ∧
+      GaussianComparison.hellingerSq MeasureTheory.volume p q = 2 * (1 - Real.exp (-M ^ 2 / 2))
+GaussianMixturePaper.remark1_hellinger_denominator_pos {M : ℝ} (hM : 0 < M) : 0 < 2 * (1 - Real.exp (-M ^ 2 / 2))
+GaussianComparison.GaussianModel.deBruijn_three_generators {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (s : ℝ) :
+  s *
+        deriv
+          (fun r =>
+            GaussianComparison.kl MeasureTheory.volume (GaussianComparison.GaussianModel.meanScaledDensity μ r)
+              (GaussianComparison.GaussianModel.meanScaledDensity ν r))
+          s =
+      GaussianComparison.GaussianModel.generatorFisherTrace μ ν s GaussianComparison.GaussianModel.klGenerator ∧
+    s * deriv (GaussianComparison.GaussianModel.meanScalingHellinger μ ν) s =
+        GaussianComparison.GaussianModel.generatorFisherTrace μ ν s
+          GaussianComparison.GaussianModel.hellingerGenerator ∧
+      s * deriv (GaussianComparison.GaussianModel.meanScalingChiSq μ ν) s =
+        GaussianComparison.GaussianModel.generatorFisherTrace μ ν s GaussianComparison.GaussianModel.chiSqGenerator
+GaussianMixturePaper.mixtureDensity_injective_ae {d : ℕ} {M : ℝ}
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν]
+  (he :
+    GaussianComparison.GaussianModel.mixtureDensity μ =ᵐ[MeasureTheory.volume]
+      GaussianComparison.GaussianModel.mixtureDensity ν) :
+  μ = ν
+GaussianMixturePaper.hellingerSq_mixture_eq_zero_iff {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] :
+  GaussianComparison.hellingerSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+        (GaussianComparison.GaussianModel.mixtureDensity ν) =
+      0 ↔
+    μ = ν
+GaussianMixturePaper.hellingerSq_ambient_eq_zero_iff {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Space d)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (hμ : ∀ᵐ (θ : GaussianComparison.GaussianModel.Space d) ∂μ, ‖θ‖ ≤ M)
+  (hν : ∀ᵐ (θ : GaussianComparison.GaussianModel.Space d) ∂ν, ‖θ‖ ≤ M) :
+  GaussianComparison.hellingerSq MeasureTheory.volume (GaussianMixturePaper.ambientMixtureDensity μ)
+        (GaussianMixturePaper.ambientMixtureDensity ν) =
+      0 ↔
+    μ = ν
+GaussianMixturePaper.optimal_constant_denominator_pos {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (hne : μ ≠ ν) :
+  0 <
+    GaussianComparison.hellingerSq MeasureTheory.volume (GaussianComparison.GaussianModel.mixtureDensity μ)
+      (GaussianComparison.GaussianModel.mixtureDensity ν)
+GaussianMixturePaper.optimalKL_bounds {M : ℝ} (hM : 0 < M) :
+  2 * M ^ 2 / (1 - Real.exp (-M ^ 2 / 2)) ≤ GaussianMixturePaper.optimalKL M ∧
+    GaussianMixturePaper.optimalKL M ≤ 2 * M ^ 2 + 4
+GaussianMixturePaper.optimalChiSq_bounds {M : ℝ} (hM : 0 < M) :
+  (Real.exp (4 * M ^ 2) - 1) / (2 * (1 - Real.exp (-M ^ 2 / 2))) ≤ GaussianMixturePaper.optimalChiSq M ∧
+    GaussianMixturePaper.optimalChiSq M ≤ 18 * Real.exp (4 * M ^ 2) - 2
+GaussianMixturePaper.optimalKL_asymptotic :
+  (fun M => GaussianMixturePaper.optimalKL M - 2 * M ^ 2) =O[Filter.atTop] fun x => 1
+GaussianMixturePaper.optimalChiSq_log_asymptotic :
+  (fun M => Real.log (GaussianMixturePaper.optimalChiSq M) - 4 * M ^ 2) =O[Filter.atTop] fun x => 1
+GaussianMixturePaper.optimalKL_leading_coefficient :
+  Filter.Tendsto (fun M => GaussianMixturePaper.optimalKL M / M ^ 2) Filter.atTop (nhds 2)
+GaussianMixturePaper.optimalChiSq_leading_exponent :
+  Filter.Tendsto (fun M => Real.log (GaussianMixturePaper.optimalChiSq M) / M ^ 2) Filter.atTop (nhds 4)
+GaussianMixturePaper.chiSq_comparison_factor36 {M : ℝ} (hM : 0 < M) :
+  18 * Real.exp (4 * M ^ 2) - 2 ≤ 36 * GaussianMixturePaper.chiSqExampleRatio M
+GaussianMixturePaper.chiSq_bounds_ratio_tendsto36 :
+  Filter.Tendsto (fun M => (18 * Real.exp (4 * M ^ 2) - 2) / GaussianMixturePaper.chiSqExampleRatio M) Filter.atTop
+    (nhds 36)
+GaussianMixturePaper.posteriorJoint_eq_density {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (t : ℝ) :
+  GaussianMixturePaper.posteriorJoint hM μ t =
+    (MeasureTheory.volume.prod μ).withDensity fun p =>
+      ENNReal.ofReal (GaussianComparison.GaussianModel.phi (p.1 - t • ↑p.2))
+GaussianMixturePaper.posteriorKernel_mean {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ] (t : ℝ)
+  (x : GaussianComparison.GaussianModel.Space d) :
+  ∫ (θ : GaussianComparison.GaussianModel.Ball d M), ↑θ ∂(GaussianMixturePaper.posteriorKernel hM μ t) x =
+    GaussianComparison.GaussianModel.meanScaledPosterior μ t x
+GaussianMixturePaper.posterior_is_conditionalExpectation {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (t : ℝ) :
+  (GaussianMixturePaper.posteriorJoint hM μ t)[fun p => ↑p.2 |
+      MeasurableSpace.comap Prod.fst inferInstance] =ᵐ[GaussianMixturePaper.posteriorJoint hM μ t]
+    fun p => GaussianComparison.GaussianModel.meanScaledPosterior μ t p.1
+GaussianMixturePaper.independent_observation_joint_density {d : ℕ} {M : ℝ}
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (t : ℝ) :
+  MeasureTheory.Measure.map (GaussianMixturePaper.observationPair t) (μ.prod (GaussianMixturePaper.gaussianNoise d)) =
+    (MeasureTheory.volume.prod μ).withDensity fun p =>
+      ENNReal.ofReal (GaussianComparison.GaussianModel.phi (p.1 - t • ↑p.2))
+GaussianMixturePaper.independent_observation_law {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (t : ℝ) :
+  MeasureTheory.Measure.map (fun p => t • ↑p.1 + p.2) (μ.prod (GaussianMixturePaper.gaussianNoise d)) =
+    GaussianMixturePaper.observationMeasure μ t
+GaussianMixturePaper.priorVector_independent_noise {d : ℕ} {M : ℝ}
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ] :
+  ProbabilityTheory.IndepFun (fun p => ↑p.1) Prod.snd (μ.prod (GaussianMixturePaper.gaussianNoise d))
+GaussianMixturePaper.posterior_is_conditionalExpectation_independent {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (t : ℝ) :
+  (μ.prod (GaussianMixturePaper.gaussianNoise d))[fun p => ↑p.1 |
+      MeasurableSpace.comap (fun p => t • ↑p.1 + p.2) inferInstance] =ᵐ[μ.prod (GaussianMixturePaper.gaussianNoise d)]
+    fun p => GaussianComparison.GaussianModel.meanScaledPosterior μ t (t • ↑p.1 + p.2)
+GaussianMixturePaper.density_PDE {d : ℕ} {M : ℝ} (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M))
+  [MeasureTheory.IsFiniteMeasure μ] (t : ℝ) (x : GaussianComparison.GaussianModel.Space d) :
+  t * deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t =
+    -GaussianMixturePaper.coordinateDivergence (fun y => GaussianComparison.GaussianModel.meanScaledDensity μ t y • y)
+          x -
+      GaussianComparison.GaussianModel.coordinateLaplacian (GaussianComparison.GaussianModel.meanScaledDensity μ t) x
+GaussianMixturePaper.paperGenerator_boundary_conditions {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (t : ℝ) (f : ℝ → ℝ) (hf : GaussianMixturePaper.IsPaperGenerator f) :
+  Filter.Tendsto
+      (fun x =>
+        (GaussianComparison.GaussianModel.meanScaledDensity ν t x *
+            f
+              (GaussianComparison.GaussianModel.meanScaledDensity μ t x /
+                GaussianComparison.GaussianModel.meanScaledDensity ν t x)) •
+          x)
+      (Filter.cocompact (GaussianComparison.GaussianModel.Space d)) (nhds 0) ∧
+    Filter.Tendsto
+      (fun x =>
+        gradient
+          (fun y =>
+            GaussianComparison.GaussianModel.meanScaledDensity ν t y *
+              f
+                (GaussianComparison.GaussianModel.meanScaledDensity μ t y /
+                  GaussianComparison.GaussianModel.meanScaledDensity ν t y))
+          x)
+      (Filter.cocompact (GaussianComparison.GaussianModel.Space d)) (nhds 0)
+GaussianMixturePaper.hellinger_interpolation_range {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (t : ℝ) :
+  GaussianComparison.GaussianModel.meanScalingHellinger μ ν t ∈ Set.Icc 0 2
+GaussianMixturePaper.hellinger_interpolation_monotone {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] :
+  MonotoneOn (GaussianComparison.GaussianModel.meanScalingHellinger μ ν) (Set.Ici 0)
+GaussianMixturePaper.appendix_envelopes_integrable {d : ℕ} (M T : ℝ) :
+  MeasureTheory.Integrable (GaussianMixturePaper.PJ M T) MeasureTheory.volume ∧
+    MeasureTheory.Integrable (GaussianMixturePaper.QJ M T) MeasureTheory.volume ∧
+      MeasureTheory.Integrable (GaussianMixturePaper.PC M T) MeasureTheory.volume ∧
+        MeasureTheory.Integrable (GaussianMixturePaper.QC M T) MeasureTheory.volume ∧
+          MeasureTheory.Integrable (GaussianMixturePaper.PA M T) MeasureTheory.volume ∧
+            MeasureTheory.Integrable (GaussianMixturePaper.QA M T) MeasureTheory.volume
+GaussianMixturePaper.appendix_raw_domination {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T)
+  (x : GaussianComparison.GaussianModel.Space d) :
+  |GaussianMixturePaper.rawKL μ ν t x| ≤ GaussianMixturePaper.PJ M T x ∧
+    |deriv (fun s => GaussianMixturePaper.rawKL μ ν s x) t| ≤ GaussianMixturePaper.QJ M T x ∧
+      |GaussianMixturePaper.rawChi μ ν t x| ≤ GaussianMixturePaper.PC M T x ∧
+        |deriv (fun s => GaussianMixturePaper.rawChi μ ν s x) t| ≤ GaussianMixturePaper.QC M T x ∧
+          |GaussianMixturePaper.rawAffinity μ ν t x| ≤ GaussianMixturePaper.PA M T x ∧
+            |deriv (fun s => GaussianMixturePaper.rawAffinity μ ν s x) t| ≤ GaussianMixturePaper.QA M T x
+GaussianMixturePaper.integral_density_deriv_zero {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  (t : ℝ) :
+  MeasureTheory.Integrable (fun x => deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t)
+      MeasureTheory.volume ∧
+    ∫ (x : GaussianComparison.GaussianModel.Space d),
+        deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t =
+      0
+GaussianMixturePaper.gaussian_component_bound {d : ℕ} {M : ℝ} (hM : 0 ≤ M) {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T)
+  (θ : GaussianComparison.GaussianModel.Ball d M) (x : GaussianComparison.GaussianModel.Space d) :
+  GaussianComparison.GaussianModel.phi (x - t • ↑θ) ≤ GaussianComparison.GaussianModel.phi x * Real.exp (T * M * ‖x‖)
+GaussianMixturePaper.gaussian_component_deriv_bound {d : ℕ} {M : ℝ} (hM : 0 ≤ M) {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T)
+  (θ : GaussianComparison.GaussianModel.Ball d M) (x : GaussianComparison.GaussianModel.Space d) :
+  |deriv (fun s => GaussianComparison.GaussianModel.phi (x - s • ↑θ)) t| ≤
+    (M * ‖x‖ + T * M ^ 2) * GaussianComparison.GaussianModel.phi x * Real.exp (T * M * ‖x‖)
+GaussianMixturePaper.integral_PC_add_QC_bound {d : ℕ} {M : ℝ} (hM : 0 ≤ M) {T : ℝ} (hT : 0 ≤ T) :
+  ∫ (x : GaussianComparison.GaussianModel.Space d), GaussianMixturePaper.PC M T x + GaussianMixturePaper.QC M T x ≤
+    Real.exp (T ^ 2 * M ^ 2 / 2) * GaussianMixturePaper.appendixS (3 * T * M) d +
+        4 * T * M ^ 2 * Real.exp (T ^ 2 * M ^ 2) * GaussianMixturePaper.appendixS (5 * T * M) d +
+      4 * M * Real.exp (T ^ 2 * M ^ 2) * GaussianMixturePaper.appendixK (5 * T * M) d 1
+GaussianMixturePaper.integral_PA_add_QA_bound {d : ℕ} {M : ℝ} (hM : 0 ≤ M) {T : ℝ} (hT : 0 ≤ T) :
+  ∫ (x : GaussianComparison.GaussianModel.Space d), GaussianMixturePaper.PA M T x + GaussianMixturePaper.QA M T x ≤
+    GaussianMixturePaper.appendixS (T * M) d +
+        T * M ^ 2 * Real.exp (T ^ 2 * M ^ 2 / 4) * GaussianMixturePaper.appendixS (2 * T * M) d +
+      M * Real.exp (T ^ 2 * M ^ 2 / 4) * GaussianMixturePaper.appendixK (2 * T * M) d 1
+GaussianMixturePaper.chiSq_explicit_finiteness_bound {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] {T t : ℝ} (hT : 0 ≤ T) (ht : |t| ≤ T) :
+  0 ≤ GaussianComparison.GaussianModel.meanScalingChiSq μ ν t ∧
+    GaussianComparison.GaussianModel.meanScalingChiSq μ ν t ≤
+      Real.exp (T ^ 2 * M ^ 2 / 2) * GaussianMixturePaper.appendixS (3 * T * M) d - 1
+GaussianComparison.GaussianModel.densityFDivergence_kl.{u_1} {Ω : Type u_1} [MeasurableSpace Ω]
+  {m : MeasureTheory.Measure Ω} {p q : Ω → ℝ} (hf : GaussianComparison.FiniteDivergences m p q) :
+  GaussianComparison.GaussianModel.densityFDivergence m p q GaussianComparison.GaussianModel.klGenerator =
+    GaussianComparison.kl m p q
+GaussianComparison.GaussianModel.densityFDivergence_hellinger.{u_1} {Ω : Type u_1} [MeasurableSpace Ω]
+  {m : MeasureTheory.Measure Ω} {p q : Ω → ℝ} (hf : GaussianComparison.FiniteDivergences m p q) :
+  GaussianComparison.GaussianModel.densityFDivergence m p q GaussianComparison.GaussianModel.hellingerGenerator =
+    GaussianComparison.hellingerSq m p q
+GaussianComparison.GaussianModel.densityFDivergence_chiSq.{u_1} {Ω : Type u_1} [MeasurableSpace Ω]
+  (m : MeasureTheory.Measure Ω) (p q : Ω → ℝ) :
+  GaussianComparison.GaussianModel.densityFDivergence m p q GaussianComparison.GaussianModel.chiSqGenerator =
+    GaussianComparison.chiSq m p q
+GaussianComparison.GaussianModel.integrable_generatorFisherMatrix_entry {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (s : ℝ) (f : ℝ → ℝ) (hf : GaussianComparison.GaussianModel.IsPaperGenerator f)
+  (i j : Fin d) :
+  MeasureTheory.Integrable
+    (fun x =>
+      GaussianComparison.GaussianModel.generatorDensityWeight μ ν s f x *
+          (GaussianComparison.GaussianModel.likelihoodScore μ ν s x).ofLp i *
+        (GaussianComparison.GaussianModel.likelihoodScore μ ν s x).ofLp j)
+    MeasureTheory.volume
+GaussianComparison.GaussianModel.generatorFisherMatrix_trace {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (s : ℝ) (f : ℝ → ℝ)
+  (hf : GaussianComparison.GaussianModel.IsPaperGenerator f) :
+  (GaussianComparison.GaussianModel.generatorFisherMatrix μ ν s f).trace =
+    GaussianComparison.GaussianModel.generatorFisherTrace μ ν s f
+GaussianComparison.GaussianModel.deBruijn_matrix {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (s : ℝ) (f : ℝ → ℝ)
+  (hf : GaussianComparison.GaussianModel.IsPaperGenerator f) :
+  s *
+      deriv
+        (fun r =>
+          GaussianComparison.GaussianModel.densityFDivergence MeasureTheory.volume
+            (GaussianComparison.GaussianModel.meanScaledDensity μ r)
+            (GaussianComparison.GaussianModel.meanScaledDensity ν r) f)
+        s =
+    (GaussianComparison.GaussianModel.generatorFisherMatrix μ ν s f).trace
+GaussianMixturePaper.PaperCutoff.contDiff_chi {d : ℕ} {R : ℝ} (hR : 0 < R) :
+  ContDiff ℝ 1 (GaussianMixturePaper.PaperCutoff.chi R)
+GaussianMixturePaper.PaperCutoff.chi_hasCompactSupport {d : ℕ} {R : ℝ} (hR : 0 < R) :
+  HasCompactSupport (GaussianMixturePaper.PaperCutoff.chi R)
+GaussianMixturePaper.PaperCutoff.gradient_chi_bound {d : ℕ} {R : ℝ} (hR : 0 < R)
+  (x : GaussianComparison.GaussianModel.Space d) : ‖gradient (GaussianMixturePaper.PaperCutoff.chi R) x‖ ≤ 3 / (2 * R)
+GaussianMixturePaper.PaperCutoff.tendsto_integral_mul_chi {d : ℕ}
+  {μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Space d)}
+  {A : GaussianComparison.GaussianModel.Space d → ℝ} (hA : MeasureTheory.Integrable A μ) :
+  Filter.Tendsto
+    (fun R => ∫ (x : GaussianComparison.GaussianModel.Space d), A x * GaussianMixturePaper.PaperCutoff.chi R x ∂μ)
+    Filter.atTop (nhds (∫ (x : GaussianComparison.GaussianModel.Space d), A x ∂μ))
+GaussianMixturePaper.PaperCutoff.tendsto_boundaryTerm {d : ℕ}
+  {μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Space d)}
+  {A : GaussianComparison.GaussianModel.Space d → ℝ} (hA : MeasureTheory.Integrable A μ)
+  (θ : GaussianComparison.GaussianModel.Space d) :
+  Filter.Tendsto (GaussianMixturePaper.PaperCutoff.boundaryTerm μ A θ) Filter.atTop (nhds 0)
+GaussianMixturePaper.PaperCutoff.gaussian_boundaryTerm_bound {d : ℕ} {M T t L c R : ℝ} (hM : 0 ≤ M) (ht : |t| ≤ T)
+  (θ : GaussianComparison.GaussianModel.Ball d M) {g : GaussianComparison.GaussianModel.Space d → ℝ} (hg : Continuous g)
+  (hL : 0 ≤ L) (hbound : ∀ (x : GaussianComparison.GaussianModel.Space d), |g x| ≤ L * Real.exp (c * ‖x‖))
+  (hR : 0 < R) :
+  |GaussianMixturePaper.PaperCutoff.boundaryTerm MeasureTheory.volume
+        (fun x => GaussianComparison.GaussianModel.phi (x - t • ↑θ) * g x) (↑θ) R| ≤
+    3 * M * L * (2 ^ (↑d / 2) * Real.exp ((c + T * M) ^ 2)) / (2 * R)
+GaussianMixturePaper.PaperCutoff.gaussian_integration_by_parts_via_cutoff {d : ℕ} {M L c : ℝ} (hM : 0 ≤ M)
+  (θ : GaussianComparison.GaussianModel.Ball d M) {g : GaussianComparison.GaussianModel.Space d → ℝ}
+  (hg : ContDiff ℝ 1 g) (hL : 0 ≤ L) (hc : 0 ≤ c)
+  (hbound : ∀ (x : GaussianComparison.GaussianModel.Space d), |g x| + ‖gradient g x‖ ≤ L * Real.exp (c * ‖x‖)) (t : ℝ) :
+  ∫ (x : GaussianComparison.GaussianModel.Space d),
+      (inner ℝ (↑θ) x - t * ‖↑θ‖ ^ 2) * GaussianComparison.GaussianModel.phi (x - t • ↑θ) * g x =
+    ∫ (x : GaussianComparison.GaussianModel.Space d),
+      GaussianComparison.GaussianModel.phi (x - t • ↑θ) * inner ℝ (↑θ) (gradient g x)
+GaussianMixturePaper.PaperCutoff.lemma2_via_cutoff {d : ℕ} {M L c : ℝ} (hM : 0 ≤ M)
+  (μ : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  {g : GaussianComparison.GaussianModel.Space d → ℝ} (hg : ContDiff ℝ 1 g) (hL : 0 ≤ L) (hc : 0 ≤ c)
+  (hbound : ∀ (x : GaussianComparison.GaussianModel.Space d), |g x| + ‖gradient g x‖ ≤ L * Real.exp (c * ‖x‖)) (t : ℝ) :
+  MeasureTheory.Integrable (fun x => deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t * g x)
+      MeasureTheory.volume ∧
+    MeasureTheory.Integrable
+        (fun x =>
+          GaussianComparison.GaussianModel.meanScaledDensity μ t x *
+            inner ℝ (gradient g x) (GaussianComparison.GaussianModel.meanScaledPosterior μ t x))
+        MeasureTheory.volume ∧
+      ∫ (x : GaussianComparison.GaussianModel.Space d),
+          deriv (fun s => GaussianComparison.GaussianModel.meanScaledDensity μ s x) t * g x =
+        ∫ (x : GaussianComparison.GaussianModel.Space d),
+          GaussianComparison.GaussianModel.meanScaledDensity μ t x *
+            inner ℝ (gradient g x) (GaussianComparison.GaussianModel.meanScaledPosterior μ t x)
+GaussianComparison.GaussianModel.generalFDivergence_hasDerivAt {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] {f : ℝ → ℝ} (hf : GaussianComparison.GaussianModel.PositiveC2Generator f)
+  (hg : GaussianComparison.GaussianModel.LocalGeneratorGrowth μ ν f) (s : ℝ) :
+  HasDerivAt
+    (fun r =>
+      GaussianComparison.GaussianModel.densityFDivergence MeasureTheory.volume
+        (GaussianComparison.GaussianModel.meanScaledDensity μ r)
+        (GaussianComparison.GaussianModel.meanScaledDensity ν r) f)
+    (s *
+      ∫ (x : GaussianComparison.GaussianModel.Space d),
+        GaussianComparison.GaussianModel.meanScaledDensity ν s x *
+              GaussianComparison.GaussianModel.scaledRatio μ ν s x ^ 2 *
+            deriv (deriv f) (GaussianComparison.GaussianModel.scaledRatio μ ν s x) *
+          ‖GaussianComparison.GaussianModel.meanScaledGap μ ν s x‖ ^ 2)
+    s
+GaussianComparison.GaussianModel.general_deBruijn_matrix {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] {f : ℝ → ℝ} (hf : GaussianComparison.GaussianModel.PositiveC2Generator f)
+  (hg : GaussianComparison.GaussianModel.LocalGeneratorGrowth μ ν f) (s : ℝ) :
+  s *
+      deriv
+        (fun r =>
+          GaussianComparison.GaussianModel.densityFDivergence MeasureTheory.volume
+            (GaussianComparison.GaussianModel.meanScaledDensity μ r)
+            (GaussianComparison.GaussianModel.meanScaledDensity ν r) f)
+        s =
+    (GaussianComparison.GaussianModel.generatorFisherMatrix μ ν s f).trace
+GaussianComparison.GaussianModel.paperGenerator_convex (f : ℝ → ℝ) (hf : GaussianMixturePaper.IsPaperGenerator f) :
+  ConvexOn ℝ (Set.Ici 0) f
+GaussianComparison.GaussianModel.paperGenerator_admissible {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (f : ℝ → ℝ) (hf : GaussianMixturePaper.IsPaperGenerator f) :
+  GaussianComparison.GaussianModel.PositiveC2Generator f ∧ GaussianComparison.GaussianModel.LocalGeneratorGrowth μ ν f
+GaussianComparison.GaussianModel.paperGenerator_general_deBruijn {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (f : ℝ → ℝ) (hf : GaussianMixturePaper.IsPaperGenerator f) (s : ℝ) :
+  s *
+      deriv
+        (fun r =>
+          GaussianComparison.GaussianModel.densityFDivergence MeasureTheory.volume
+            (GaussianComparison.GaussianModel.meanScaledDensity μ r)
+            (GaussianComparison.GaussianModel.meanScaledDensity ν r) f)
+        s =
+    (GaussianComparison.GaussianModel.generatorFisherMatrix μ ν s f).trace
+GaussianComparison.GaussianModel.paperGeneratorDensity_time_derivatives_integrable {d : ℕ} {M : ℝ}
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (hM : 0 ≤ M) (f : ℝ → ℝ)
+  (hf : GaussianComparison.GaussianModel.IsPaperGenerator f) (t : ℝ) :
+  MeasureTheory.Integrable
+      (fun x => deriv (fun s => GaussianComparison.GaussianModel.paperGeneratorDensity μ ν f s x) t)
+      MeasureTheory.volume ∧
+    MeasureTheory.Integrable
+      (fun x => deriv (deriv fun s => GaussianComparison.GaussianModel.paperGeneratorDensity μ ν f s x) t)
+      MeasureTheory.volume
+GaussianComparison.GaussianModel.paperGeneratorDensity_time_derivatives_local_envelope {d : ℕ} {M : ℝ}
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (hM : 0 ≤ M) (f : ℝ → ℝ)
+  (hf : GaussianComparison.GaussianModel.IsPaperGenerator f) {T : ℝ} (hT : 0 ≤ T) :
+  ∃ C c,
+    0 ≤ C ∧
+      0 ≤ c ∧
+        MeasureTheory.Integrable (fun x => C * (GaussianComparison.GaussianModel.phi x * Real.exp (c * ‖x‖)))
+            MeasureTheory.volume ∧
+          ∀ (t : ℝ),
+            |t| ≤ T →
+              ∀ (x : GaussianComparison.GaussianModel.Space d),
+                |deriv (fun s => GaussianComparison.GaussianModel.paperGeneratorDensity μ ν f s x) t| +
+                    |deriv (deriv fun s => GaussianComparison.GaussianModel.paperGeneratorDensity μ ν f s x) t| ≤
+                  C * (GaussianComparison.GaussianModel.phi x * Real.exp (c * ‖x‖))
+GaussianComparison.GaussianModel.integrable_generalFDivergence {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] {f : ℝ → ℝ} (hf : GaussianComparison.GaussianModel.PositiveC2Generator f)
+  (hg : GaussianComparison.GaussianModel.LocalGeneratorGrowth μ ν f) (s : ℝ) :
+  MeasureTheory.Integrable
+    (fun x =>
+      GaussianComparison.GaussianModel.meanScaledDensity ν s x *
+        f
+          (GaussianComparison.GaussianModel.meanScaledDensity μ s x /
+            GaussianComparison.GaussianModel.meanScaledDensity ν s x))
+    MeasureTheory.volume
+GaussianComparison.GaussianModel.generalFDivergence_contDiff_one {d : ℕ} {M : ℝ} (hM : 0 ≤ M)
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] {f : ℝ → ℝ} (hf : GaussianComparison.GaussianModel.PositiveC2Generator f)
+  (hg : GaussianComparison.GaussianModel.LocalGeneratorGrowth μ ν f) :
+  ContDiff ℝ 1 fun r =>
+    GaussianComparison.GaussianModel.densityFDivergence MeasureTheory.volume
+      (GaussianComparison.GaussianModel.meanScaledDensity μ r) (GaussianComparison.GaussianModel.meanScaledDensity ν r)
+      f
+GaussianComparison.GaussianModel.paperGeneratorDensity_contDiff_two {d : ℕ} {M : ℝ}
+  (μ ν : MeasureTheory.Measure (GaussianComparison.GaussianModel.Ball d M)) [MeasureTheory.IsProbabilityMeasure μ]
+  [MeasureTheory.IsProbabilityMeasure ν] (hM : 0 ≤ M) (f : ℝ → ℝ)
+  (hf : GaussianComparison.GaussianModel.IsPaperGenerator f) (x : GaussianComparison.GaussianModel.Space d) :
+  ContDiff ℝ 2 fun t => GaussianComparison.GaussianModel.paperGeneratorDensity μ ν f t x

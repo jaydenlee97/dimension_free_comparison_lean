@@ -1,0 +1,4423 @@
+{
+  "GaussianComparison.ElementaryChi.comparison_of_derivative_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.density_mul_sqrt_ratio._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.density_weight_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand._proof_2": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_factorization._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.ElementaryChi.modifiedIntegrand_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryChi.polynomial_factorization": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryKL.density_weight_split_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.ElementaryKL.kl_comparison_of_derivative_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.affinity_le_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.chiSq_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.hellingerSq_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.hellingerSq_le_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_affinity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_chiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_chiSq_reverse": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_hellingerSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_kl": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_kl_reverse": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_p": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_q": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.integrable_ratio_square": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.kl_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.mass_p": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.mass_q": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.positive_p": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.positive_q": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.symm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.terminal_chiSq_identity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.terminal_hellinger_eta_identity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.terminal_hellinger_identity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.FiniteDivergences.terminal_kl_identity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.add": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.const": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.gaussian_integrable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.gaussian_integrable_prod": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.inner": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.log": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.mono": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.mul": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.neg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.norm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.of_bounded": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.radius": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.reparam": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.smul": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.sqrt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ExpGrowth.sub": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.continuous": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.continuous_space_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.continuous_space_second_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.continuous_time_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.space_derivative_differentiable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.space_differentiable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.JointC12.time_differentiable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.add": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.const": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.mul": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.neg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.pow": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.sqrt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalExpGrowth.sub": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalGeneratorGrowth.first": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalGeneratorGrowth.second": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.LocalGeneratorGrowth.value": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.PositiveC2Generator.compensated_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.PositiveC2Generator.continuous_first": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.PositiveC2Generator.continuous_second": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.PositiveC2Generator.continuous_value": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.PositiveC2Generator.first": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.PositiveC2Generator.second": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.add._proof_8": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.const._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.const._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.const._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.const._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.const._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.const._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.contDiff_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.continuous": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.continuousFirst": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.continuousSecond": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.deriv_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.growthFirst": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.growthSecond": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.hasFirst": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.hasSecond": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_8": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._proof_9": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.inv._simp_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_8": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.log._proof_9": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mk.inj": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mk.injEq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mk.sizeOf_spec": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_8": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.mul._proof_9": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.second_deriv_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_10": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_8": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sqrt._proof_9": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.TimeJet.sub._proof_8": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ballSecondCountableTopology": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ballSecondCountableTopology._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ballT2Space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.ballT2Space._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqFisherTrace.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_secondDeriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSqGenerator_weight._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.chiSq_localGeneratorGrowth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.chiSq_positiveC2Generator": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.contDiff_meanScalingAffinity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.contDiff_meanScalingChiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.contDiff_meanScalingHellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.contDiff_meanScalingJeffreys": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.contDiff_meanScalingKL": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.contDiff_one_gaussian_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuousOn_meanScalingHellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuousOn_meanScalingModifiedChi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_gaussian_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_generator_ratio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_globalScalingMap": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_jointExponent": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_kernel_prior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_likelihoodScore": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_log_partition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScaledDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScaledDensity_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScaledGap": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScaledGap_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScaledPosterior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScalingAffinity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScalingChiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_meanScalingJeffreys": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_mixtureDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_partition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_phi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_posteriorMean": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_priorScalingMap": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledAffinityIntegrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledAffinityIntegrandDot": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledChiIntegrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledChiIntegrandDot": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledKLIntegrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledKLIntegrandDot": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledLogRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledPartition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledPartitionDDot": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledPartitionDot": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.continuous_scaledRootRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.coordinateLaplacian_partition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deBruijn_chiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deBruijn_hellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deBruijn_kl": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deBruijn_matrix": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deBruijn_three_generators": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.densityFDivergence_chiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.densityFDivergence_eq_generalFIntegrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.densityFDivergence_hellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.densityFDivergence_kl": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.density_ratio_eq_scaledRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deriv_deriv_partition_spatialLine": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.deriv_partition_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.finiteDivergences_meanScaled": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.finiteDivergences_meanScaled_global": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.finiteDivergences_mixture": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.fisher_generator_weights": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.fixed_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFDivergence_contDiff_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFDivergence_derivative_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFDivergence_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFDivergence_hasDerivAt_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrandDot_continuous": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrandDot_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_continuous": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generalFIntegrand_hasDerivAt._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.general_deBruijn_matrix": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.general_generatorDensityWeight_regular": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generatorDensityWeight_regular": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generatorFisherMatrix_trace": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generatorFisherTrace_chiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generatorFisherTrace_hellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generatorFisherTrace_kl": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generatorTimeJet": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generator_integrand_factorization": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.generator_ratio_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.globalScaledPrior.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.globalScaledPrior_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.globalScalingMap._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.gradient_log_meanScaledDensity_ratio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.gradient_log_partition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hasDerivAt_gaussian_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hasDerivAt_integral_compact_prior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hasFDerivAt_integral_compact_prior_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hasFDerivAt_integral_compact_prior_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerFisherTrace._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerFisherTrace.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_integrand._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_secondDeriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellingerGenerator_weight": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellinger_localGeneratorGrowth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.hellinger_positiveC2Generator": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instBorelSpaceBall": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instBorelSpaceBall._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instCompactSpaceBall": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instMeasurableSpaceBall._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instMeasurableSpaceBall._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instMeasurableSpaceBall._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instTopologicalSpaceBall._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instTopologicalSpaceBall._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.instTopologicalSpaceBall._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_chiSqFisherTrace": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_densityFDivergence_chiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_densityFDivergence_hellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_densityFDivergence_kl": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_densityFDivergence_paper": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_exp_neg_mul_norm_sq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_generalFDivergence": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_generatorFisherMatrix_entry": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_hellingerFisherTrace": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_kernel": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_kernel_smul": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_klFisherTrace": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_meanScaledDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_meanScaledDensity_global": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_meanScaledDensity_mul_inner": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_meanScalingHellingerRate_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_meanScalingKLRate_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_meanScalingModifiedChi_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_mixtureDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_mixture_kernel": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_mixture_ratio_square": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_mul_meanScaledGap_sq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_phi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_phi_mul_exp_norm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_phi_sub": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_scaledPartitionDot_mul": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_scoreFisherMatrix_entry": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integrable_scoreFisherTrace": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integral_meanScaledDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integral_meanScaledDensity_global": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integral_mixtureDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integral_phi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.integral_phi_sub": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointC12_of_contDiff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent._proof_8": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.jointExponent_apply": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.kernel.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_hasDerivAt_spatialLine": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_hasDerivAt_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_hasFDerivAt_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_le_abs_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_le_of_nonneg_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_lower_of_nonneg_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_mean_scaling": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kernel_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.klFisherTrace.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_integrand._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_secondDeriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.klGenerator_weight": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kl_localGeneratorGrowth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.kl_positiveC2Generator": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.lemma1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.likelihoodScore._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.likelihoodScore_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.likelihoodScore_norm_sq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_meanScaledDensity_ratio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_meanScaledDensity_ratio_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_partition_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_partition_contDiff_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_partition_contDiff_joint_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_partition_continuous_iteratedFDeriv_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_partition_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.log_partition_jointC12": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_eq_globalMixture": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_eq_mixtureDensity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_eq_partition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_inner_posterior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_ratio._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_mul_rootRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_smul_posterior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledDensity_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledGap.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledGap_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledPosterior.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledPosterior_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledPrior.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaledPrior_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingAffinity_derivative_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingAffinity_eq_gaussian_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingAffinity_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingAffinity_hasDerivAt_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSqRate._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_derivative_integral._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_eq_gaussian_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_hasDerivAt_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingChiSq_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellinger.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellingerRate._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellingerRate_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellinger_eq_affinity_global": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellinger_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellinger_hasDerivAt_global": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellinger_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingHellinger_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys_hasDerivAt_global": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingJeffreys_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingKLRate._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingKLRate._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingKL_derivative_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingKL_eq_gaussian_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingKL_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingKL_hasDerivAt_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingModifiedChi._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingModifiedChi.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingModifiedChi_eq_integral": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingModifiedChi_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingModifiedChi_rate_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScalingModifiedChi_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaling_chiSq_comparison": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaling_kl_comparison_of_derivatives": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaling_rate_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.meanScaling_weak_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureDensity.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureDensity_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureDensity_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureMeasure._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureMeasure._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureMeasure.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixtureMeasure_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.mixture_ratio_square_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.norm_half_posteriorMean_sub_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.norm_meanScaledGap_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.norm_meanScaledPosterior_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.norm_posteriorMean_le._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.normalizer.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.normalizer_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.paperGeneratorDensity_contDiff_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.paperGeneratorDensity_time_derivatives_integrable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.paperGeneratorDensity_time_derivatives_local_envelope": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.paperGenerator_admissible": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.paperGenerator_convex": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.paperGenerator_convex._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.paperGenerator_general_deBruijn": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partitionTimeJet._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partitionTimeJet._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partitionTimeJet._proof_3": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partitionTimeJet._proof_4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partitionTimeJet._proof_5": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_backward_heat": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_contDiff_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_contDiff_joint_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_continuous_iteratedFDeriv_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_hasDerivAt_spatialLine": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_hasDerivAt_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_hasFDerivAt_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_jointC12": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.partition_zero_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_hasFDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_mean_scaling_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_mul_kernel": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_mul_kernel_mean_scaling": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_mul_partition": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.phi_sub_fderiv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.posteriorMean.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.posteriorMean_contDiff_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.posterior_gap_inner": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.priorScalingMap._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledAffinityIntegrandDot._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledAffinityIntegrandDot_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledAffinityIntegrand_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledAffinityIntegrand_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrandDot.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrandDot_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledChiIntegrand_hasDerivAt._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledKLIntegrandDot_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledKLIntegrand_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledKLIntegrand_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledKernel_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledLogRatio.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledLogRatio_gradient_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledLogRatio_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledLogRatio_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledLogRatio_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartition.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartitionDDot.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartitionDDot_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartitionDot._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartitionDot_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartitionDot_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartition_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartition_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartition_inv_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledPartition_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatio.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatioSquare_gradient_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatioSquare_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatio_gradient_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatio_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatio_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRatio_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRootRatio.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRootRatio_eq_exp": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRootRatio_gradient_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRootRatio_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledRootRatio_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scaledWeight_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scalingParameter_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scoreFisherMatrix._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scoreFisherMatrix._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scoreFisherMatrix_trace": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scoreFisherTrace._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scoreFisherTrace._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.scoreFisherTrace_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.sq_norm_meanScaledGap_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.weightedPartition_contDiff_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.weightedPartition_contDiff_joint_nat": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.weightedPartition_hasDerivAt_spatialLine": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.GaussianModel.weightedPartition_hasFDerivAt_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.abs_kl_integrand_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.affinity.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.affinity_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.affinity_symm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.chiSq.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.chiSq_integrand_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.chiSq_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.chiSq_self": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.density_sub_le_kl_integrand._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.elementary_gaussian_chiSq_comparison": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.elementary_gaussian_chiSq_max_comparison": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.elementary_gaussian_kl_comparison": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.elementary_theorem31": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.elementary_theorem32": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.exp_twice_halfLogRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.finiteDivergences_of_ratio_square": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.halfLogRatio._proof_1": [
+    "propext"
+  ],
+  "GaussianComparison.halfLogRatio.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.hellingerSq.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.hellingerSq_eq_masses_sub_affinity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.hellingerSq_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.hellingerSq_self": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.hellingerSq_symm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.hellinger_integrand_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.integrable_affinity_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.integrable_chiSq_of_ratio_square": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.integrable_kl_of_ratio_square": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.kl.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.kl_add_reverse": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.kl_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.kl_self": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.one_div_cosh_eq_exp_twice": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.one_div_cosh_eq_exp_twice._simp_1_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.one_div_cosh_halfLogRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.sqrt_mul_eq_exp_halfLogRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.symmetrized_kl_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_6": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.tanh_eq_exp_twice._simp_1_8": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_halfLogRatio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.tanh_halfLogRatio._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_chiSq_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.terminal_hellinger_eta_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_1": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.terminal_hellinger_integrand._simp_1_7": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_kl_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_2": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_3": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_4": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_5": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_6": [
+    "propext"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_7": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianComparison.terminal_kl_integrand._simp_1_8": [
+    "propext"
+  ],
+  "GaussianMixturePaper.PA.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PC._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.PJ._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.PaperCutoff.boundaryTerm._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.boundaryTerm.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.boundaryTerm_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.boundaryTerm_bound_of_integral_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.boundaryTerm_integrable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi_eq_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi_eq_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi_eventually_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi_hasCompactSupport": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.chi_range": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.contDiff_chi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.contDiff_psi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.continuous_gradient_chi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.continuous_psiDeriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubic._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubic._proof_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubic.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubicDeriv._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubicDeriv.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubicDeriv_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubicDeriv_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubic_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubic_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cubic_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.cutoff_integration_by_parts": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.gaussian_boundaryTerm_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.gaussian_integration_by_parts_via_cutoff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.gradient_chi_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.inner_gradient_chi_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.integration_by_parts_via_cutoff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.lemma2_via_cutoff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.lipschitz_chi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.lipschitz_psi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psiDeriv.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psiDeriv_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_eq_cubic": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_eq_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_eq_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_hasDerivAt_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_hasDerivAt_two": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.psi_range": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.shifted_gaussian_abs_integral_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.shifted_gaussian_envelope": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.shifted_gaussian_mul_envelope": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.shifted_gaussian_mul_integrable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.tendsto_boundaryTerm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.tendsto_chi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.PaperCutoff.tendsto_integral_mul_chi": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.QC._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.QC._proof_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.aestronglyMeasurable_derivative_section": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.aestronglyMeasurable_derivative_section._simp_1_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.aestronglyMeasurable_derivative_section._simp_1_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.aestronglyMeasurable_derivative_section_on": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.ambientMixtureDensity_injective_ae": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.appendixK.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.appendix_envelopes_integrable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.appendix_raw_domination": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.ballPrior_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_3": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_4": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_5": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSqExampleRatio_asymptotic._simp_1_7": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSqMaxRatio_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSqRatioSet_bddAbove": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_3": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_4": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_5": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSq_bounds_ratio_tendsto36._simp_1_7": [
+    "propext"
+  ],
+  "GaussianMixturePaper.chiSq_comparison_factor36": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.chiSq_explicit_finiteness_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.continuous_posteriorWeight": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.coordinateDivergence._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.density_PDE": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_contDiff_joint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_contDiff_one": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_coordinateDivergence": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_coordinateLaplacian": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_deriv_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_deriv_time_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_envelopes": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_gradient_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_hasDerivAt_time": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_hasGradientAt_score": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_hasGradientAt_space": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_line_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_line_second_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_radial_component_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_time_derivative": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.density_time_weight_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.dominated_differentiation_local": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.exp_neg_square_tendsto_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.finiteDivergences_shift_pair": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianChar._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianChar._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianChar._proof_3": [
+    "propext"
+  ],
+  "GaussianMixturePaper.gaussianChar_ne_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianChar_shift": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianChar_shift._simp_1_1": [],
+  "GaussianMixturePaper.gaussianNoise._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianNoise._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianNoise.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussianNoise_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussian_component_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussian_component_deriv_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussian_expGrowth_decay": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussian_linear_envelope": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.gaussian_polynomial_envelope": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.generator_density_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.generator_gradient_flux_decay": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.generator_radial_flux_decay": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.hellingerSq_ambient_eq_zero_iff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.hellingerSq_mixture_eq_zero_iff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.hellingerSq_mixture_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.hellinger_interpolation_monotone": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.hellinger_interpolation_monotone._simp_1_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.hellinger_interpolation_range": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.independent_observation_eq_posteriorJoint": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.independent_observation_joint_density": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.independent_observation_law": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integrable_gaussian_polynomial_exponential": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integrable_meanScaledDensity_all": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integrable_posteriorWeight": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integrable_scaled_likelihood_product": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_PA_add_QA_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_PA_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_PC_add_QC_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_PC_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_QA_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_QC_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_density_deriv_zero": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_meanScaledDensity_all": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.integral_posteriorWeight": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.jeffreysRatio._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.jeffreysRatio._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.jeffreysRatio_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.klExampleRatio._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.klRatioSet_bddAbove": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.kl_shift_pair": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma2_gaussian_integration_by_parts": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma2_with_gradient_field": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma3_exponential": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma3_polynomial": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma4": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma4_dominated_differentiation": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma4_from_ae_contDiff": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma4_nonnegative_envelopes": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma6_gradient": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma6_log_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.lemma6_rpow_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.logRatio_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.log_optimalChiSq_error_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.map_ballPrior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.meanScaledDensity_dirac": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.meanScaledPosterior_dirac": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.measurableSet_priorBall": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.measurable_sections_of_jointly_measurable_on": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.mixtureDensity_ballPrior": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.mixtureDensity_dirac": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.mixtureDensity_dirac_fun": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.mixtureDensity_injective": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.mixtureDensity_injective_ae": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.mixture_char_factorization": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.norm_sharpnessMean": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.observationMeasure._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.observationMeasure._proof_2": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.observationMeasure.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.observationMeasure_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.observationPair.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.one_add_radius_pow_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_affinity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_affinity_integrand": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_chiSq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_chiSq_max": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_chiSq_max._simp_1_1": [],
+  "GaussianMixturePaper.opposite_gaussian_finite": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_hellinger": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_jeffreys": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_ratio": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.opposite_gaussian_ratio_square": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalChiSq_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalChiSq_exponential_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalChiSq_leading_exponent": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalChiSq_log_asymptotic": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalKL_asymptotic": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalKL_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalKL_error_bounds": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimalKL_leading_coefficient": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.optimal_constant_denominator_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.paperGenerator_boundary_conditions": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.paperGenerator_derivative_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.paperGenerator_differentiable": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.paperGenerator_growth": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.phi_line_derivative_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.phi_line_hasDerivAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorJoint.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._proof_1_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_10": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_11": [
+    "propext"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_5": [
+    "propext"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_6": [
+    "propext"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_7": [
+    "propext"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_8": [
+    "propext"
+  ],
+  "GaussianMixturePaper.posteriorJoint_eq_density._simp_1_9": [
+    "propext"
+  ],
+  "GaussianMixturePaper.posteriorJoint_isProbabilityMeasure": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorJoint_map_fst": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorKernel._proof_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorKernel.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorKernel_apply": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorKernel_isMarkovKernel": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorKernel_mean": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorWeight.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posteriorWeight_nonneg": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posterior_is_conditionalExpectation": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.posterior_is_conditionalExpectation_independent": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.priorVector_independent_noise": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.radius_pow_le_factorial_exp": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.ratio_rpow_hasGradientAt": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawAffinity.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawAffinity_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawAffinity_deriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawAffinity_deriv_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawChi.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawChi_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawChi_deriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_3": [
+    "propext"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_4": [
+    "propext"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_5": [
+    "propext"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawChi_deriv._simp_1_7": [
+    "propext"
+  ],
+  "GaussianMixturePaper.rawChi_deriv_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawKL_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawKL_deriv": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.rawKL_deriv_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.raw_logRatio_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.raw_ratio_bound": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.remark1_gaussian_formulas": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.remark1_hellinger_denominator_pos": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.sharpnessMean._proof_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpnessMean._proof_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpnessMean.eq_1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_1": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_2": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_3": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_4": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_5": [
+    "propext"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.sharpness_ratios_mem._simp_1_7": [
+    "propext"
+  ],
+  "GaussianMixturePaper.theorem1": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.theorem1_ambient": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "GaussianMixturePaper.theorem1_with_finiteness": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.PA_le_wide": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.PC_le_wide": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_affinity_rate_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_1": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_2": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_3": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_4": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_5": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_chi_rate_le._simp_1_7": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_1": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_2": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_3": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_4": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_5": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_6": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.AppendixDomination.0.GaussianMixturePaper.abs_kl_rate_le._simp_1_7": [
+    "propext"
+  ],
+  "_private.GaussianMixturePaper.DensityPDE.0.GaussianMixturePaper.expGrowth_identity": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.DensityPDE.0.GaussianMixturePaper.expGrowth_vector_add": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.GaussianEnvelope.0.GaussianMixturePaper.normalizer_mul_wide_gaussian": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.Identifiability.0.GaussianMixturePaper.char_norm": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.SecondTimeRegularity.0.GaussianComparison.GaussianModel.paperGeneratorDensity_first_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "_private.GaussianMixturePaper.SecondTimeRegularity.0.GaussianComparison.GaussianModel.paperGeneratorDensity_second_eq": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}
