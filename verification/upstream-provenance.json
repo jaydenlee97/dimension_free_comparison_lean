@@ -1,0 +1,122 @@
+{
+  "repository": "congma1028/GMM-distance",
+  "commit": "dfe71f581e12929d848995f27b9865eccd5fa4c8",
+  "source_directory": "dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison",
+  "checked_against_github_blobs": true,
+  "files": [
+    {
+      "name": "Divergences.lean",
+      "sha": "6bf859b9ed319abed78650f2e0aacc1829808ae1",
+      "size": 21066,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/Divergences.lean"
+    },
+    {
+      "name": "ElementaryChiCore.lean",
+      "sha": "df5c02a6a10a9b59b38a72580776ca87aac233f2",
+      "size": 4477,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/ElementaryChiCore.lean"
+    },
+    {
+      "name": "ElementaryKLCore.lean",
+      "sha": "9e038c8f4b7e9173b1fb26cfb83be37121ff0a15",
+      "size": 3687,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/ElementaryKLCore.lean"
+    },
+    {
+      "name": "ElementaryTheorem31.lean",
+      "sha": "41ca799daf13423014881ab3903f918399c7f4df",
+      "size": 1776,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/ElementaryTheorem31.lean"
+    },
+    {
+      "name": "ElementaryTheorem32.lean",
+      "sha": "5384925f4ebd4ac19a8319688ef077cd51805d2e",
+      "size": 2011,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/ElementaryTheorem32.lean"
+    },
+    {
+      "name": "ExponentialGrowth.lean",
+      "sha": "87dd7190fe3299dd9363809c8fc403adbfd00e0b",
+      "size": 9429,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/ExponentialGrowth.lean"
+    },
+    {
+      "name": "GaussianFiniteDivergences.lean",
+      "sha": "332dbba129190e6cb0bb84d3de95f2e3101dd452",
+      "size": 3988,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/GaussianFiniteDivergences.lean"
+    },
+    {
+      "name": "GaussianModel.lean",
+      "sha": "af96e24c6acad16ba847f01d5c8a1b6a2d3c6f47",
+      "size": 18309,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/GaussianModel.lean"
+    },
+    {
+      "name": "GaussianRegularity.lean",
+      "sha": "1e45524c845ac28841393411dcc86fc3095c7e5f",
+      "size": 12903,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/GaussianRegularity.lean"
+    },
+    {
+      "name": "GaussianSmooth.lean",
+      "sha": "4d756bb25214ecee4410f3fbe693ca1f6314fd5f",
+      "size": 12499,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/GaussianSmooth.lean"
+    },
+    {
+      "name": "MeanScaling.lean",
+      "sha": "fe6baaaec330c967a590b522dcfcabaf4c62833a",
+      "size": 14084,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScaling.lean"
+    },
+    {
+      "name": "MeanScalingBounds.lean",
+      "sha": "09436154075b484c92d947806b7feac4c740f2e3",
+      "size": 7931,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingBounds.lean"
+    },
+    {
+      "name": "MeanScalingChiCalculus.lean",
+      "sha": "15e96c502b46493821c75e6c8eee19f9377d569e",
+      "size": 9739,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingChiCalculus.lean"
+    },
+    {
+      "name": "MeanScalingChiComparison.lean",
+      "sha": "f8b3203ede7585cc23c88c91d46550e5e81a6ad4",
+      "size": 5847,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingChiComparison.lean"
+    },
+    {
+      "name": "MeanScalingDivergenceCalculus.lean",
+      "sha": "452a973b8e58560a4c94867441afef471cc5962a",
+      "size": 7758,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingDivergenceCalculus.lean"
+    },
+    {
+      "name": "MeanScalingIdentities.lean",
+      "sha": "91484bf3d8f015025de7429dfab1fa0a0fc77e2f",
+      "size": 11467,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingIdentities.lean"
+    },
+    {
+      "name": "MeanScalingIntegration.lean",
+      "sha": "468a5bd52f049b3c44bd9ea6aae0bc86817574d5",
+      "size": 10873,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingIntegration.lean"
+    },
+    {
+      "name": "MeanScalingKL.lean",
+      "sha": "ee93020f189085b359fc81c922595aaa58931ad3",
+      "size": 6612,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingKL.lean"
+    },
+    {
+      "name": "MeanScalingTests.lean",
+      "sha": "679ac81adfb6984fc5e2d1bc54eee6b780a174fd",
+      "size": 5557,
+      "url": "https://github.com/congma1028/GMM-distance/blob/dfe71f581e12929d848995f27b9865eccd5fa4c8/dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison/MeanScalingTests.lean"
+    }
+  ]
+}
