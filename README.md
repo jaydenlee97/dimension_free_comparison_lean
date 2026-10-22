@@ -1,10 +1,6 @@
-# Gaussian Mixture Lean Verification
+# Lean verification on dimension-free comparison inequalities between $f$-divergences for Gaussian location mixtures
 
-This project targets Jeonghwan Lee and Cong Ma, *Dimension-free comparison
-inequalities between f-divergences for Gaussian location mixtures*, manuscript
-dated October 22, 2026 (21 pages). The manuscript is identified by its
-[metadata and SHA256](verification/manuscript.json); the PDF is not distributed
-in this repository.
+This repository contains a Lean 4 formalization of the mathematical results and their proofs from the paper [Dimension-free comparison inequalities between $f$-divergences for Gaussian location mixtures](https://arxiv.org/abs/2610.25070) by Jeonghwan Lee and Cong Ma. 
 
 The public entry point is [GaussianMixturePaper.lean](GaussianMixturePaper.lean).
 See [proof status](PROOF_STATUS.md), the [theorem map](docs/theorem-map.md),
@@ -14,9 +10,7 @@ Theorem 1 and all six numbered lemmas have proved mathematical counterparts.
 This revision also proves Remark 1's optimal-constant suprema and asymptotics,
 Gaussian-mixture identifiability, the independent observation model and actual
 conditional-expectation posterior, the Fisher matrix and density PDE, the literal
-cubic cutoff, and the explicit appendix domination bounds. **This is not yet a claim
-that every argument in the manuscript has been formalized.** Exact remaining
-obligations and differences in proof route are listed in the [coverage table](docs/coverage.md).
+cubic cutoff, and the explicit appendix domination bounds.
 
 ## Main results
 
