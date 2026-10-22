@@ -70,8 +70,10 @@ All 42 project modules belong to the verified public import closure.
 `verification/latest/` contains build logs, displayed theorem types, the
 declaration audit, source SHA256 values, and machine-readable status. The
 theorem count includes generated auxiliary declarations and is not a count
-of manuscript theorems. CI configuration is included, but this deliverable's
-[CI workflow](.github/workflows/lean.yml) has not yet been run on GitHub.
+of manuscript theorems. The [CI workflow](.github/workflows/lean.yml) builds and
+audits the project on pushes and pull requests. See [GitHub Actions](https://github.com/jaydenlee97/gaussian-mixture-lean/actions/workflows/lean.yml)
+for the current remote verification results; the retained snapshot above is
+from the local run.
 
 ## Where to read
 
