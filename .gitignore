@@ -3,3 +3,6 @@ __pycache__/
 *.olean
 *.ilean
 *.trace
+
+# The manuscript PDF awaits separate authorization for public distribution.
+/manuscript/version_final.pdf

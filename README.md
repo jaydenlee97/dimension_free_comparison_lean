@@ -2,7 +2,9 @@
 
 This project targets Jeonghwan Lee and Cong Ma, *Dimension-free comparison
 inequalities between f-divergences for Gaussian location mixtures*, manuscript
-dated October 22, 2026 ([source manuscript](manuscript/version_final.pdf), 21 pages).
+dated October 22, 2026 (21 pages). The manuscript is identified by its
+[metadata and SHA256](verification/manuscript.json); the PDF is not distributed
+in this repository.
 
 The public entry point is [GaussianMixturePaper.lean](GaussianMixturePaper.lean).
 See [proof status](PROOF_STATUS.md), the [theorem map](docs/theorem-map.md),
@@ -127,7 +129,8 @@ asserted for upstream material.
 
 Pinned Lean: `v4.33.0-rc1`. Pinned Mathlib:
 `79d0395a1825a6264ad5d269e35e60537518955e`. All transitive dependency revisions
-are recorded in `lake-manifest.json`. The source PDF and its SHA256 are included.
+are recorded in `lake-manifest.json`. The source manuscript's metadata and SHA256
+are recorded in `verification/manuscript.json`.
 
 The local host required a narrow executable-path compatibility shim; it does
 not modify Lean or its proof checker. `docs/runtime.md` records this detail.
