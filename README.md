@@ -1,6 +1,6 @@
 # Lean verification on dimension-free comparison inequalities between $f$-divergences for Gaussian location mixtures
 
-This repository contains a Lean 4 formalization of the mathematical results and their proofs from the paper [Dimension-free comparison inequalities between $f$-divergences for Gaussian location mixtures](https://arxiv.org/abs/2610.25070) by Jeonghwan Lee and Cong Ma. 
+This repository contains a Lean 4 formalization of the mathematical results and their proofs from the paper [Dimension-free comparison inequalities between $$f$$-divergences for Gaussian location mixtures](https://arxiv.org/abs/2610.25070) by Jeonghwan Lee and Cong Ma. 
 
 The public entry point is [GaussianMixturePaper.lean](GaussianMixturePaper.lean).
 See [proof status](PROOF_STATUS.md), the [theorem map](docs/theorem-map.md),
