@@ -110,14 +110,3 @@ The presentation follows the public entry-point and verification structure of
 [passk-lean](https://github.com/chandramaulichak108/passk-lean) and
 [bcsi-lean-verification](https://github.com/congma1028/bcsi-lean-verification).
 See [reference notes](docs/reference-repositories.md) for the comparison.
-
-## Manuscript qualifications
-
-The ratios in Remark 1 require M > 0. At M = 0, its distinct-prior class is
-empty and its displayed lower-bound ratios contain 0/0. Theorem 1 itself is
-verified also at M = 0.
-
-Section 3 should place the KL and Hellinger generators in C2((0,infinity)),
-with continuous extensions at zero. They are not differentiable at zero.
-All mixture density ratios in the proof are strictly positive. The concrete
-de Bruijn identities here hold at t = 0 directly, without cancellation of t.
