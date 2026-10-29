@@ -19,8 +19,8 @@ measures on Euclidean space concentrated on the closed radius-M ball, in any
 natural dimension and for M >= 0. It proves finiteness as well as
 
 $$
-\mathrm{KL}(P_\mu\|P_\nu)+\mathrm{KL}(P_\nu\|P_\mu)
-\le (2M^2+4) H^2(P_\mu,P_\nu),
+\mathrm{KL} \left( \mathbb{P}_{\pi} \| \mathbb{P}_{\eta} \right) + \mathrm{KL} \left( \mathbb{P}_{\eta} \| \mathbb{P}_{\pi} \right)
+\leq \left( 2 M^2 + 4 \right) \mathrm{H}^2 \left( \mathbb{P}_{\pi}, \mathbb{P}_{\eta} \right).
 $$
 
 $$
