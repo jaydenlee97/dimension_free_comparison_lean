@@ -1,4 +1,4 @@
-# Lean verification on dimension-free comparison inequalities between $f$-divergences for Gaussian location mixtures
+# Formal verification on dimension-free comparison inequalities between $f$-divergences for Gaussian location mixtures via Lean 4.
 
 This repository contains a **Lean 4 formalization** of the mathematical results and their proofs from the paper [Dimension-free comparison inequalities between f-divergences for Gaussian location mixtures](https://arxiv.org/abs/2610.25070) by Jeonghwan Lee and Cong Ma. 
 
@@ -110,27 +110,6 @@ The presentation follows the public entry-point and verification structure of
 [passk-lean](https://github.com/chandramaulichak108/passk-lean) and
 [bcsi-lean-verification](https://github.com/congma1028/bcsi-lean-verification).
 See [reference notes](docs/reference-repositories.md) for the comparison.
-
-## Provenance and environment
-
-The 19 files under `GaussianComparison/` are unchanged from
-`congma1028/GMM-distance`, commit
-`dfe71f581e12929d848995f27b9865eccd5fa4c8`, subdirectory
-`dimension_free_comparison_gaussian_mixtures_lean_formalization/GaussianComparison`.
-Their Git blob hashes were checked against GitHub during this work; see
-`verification/upstream-provenance.json`. The new manuscript-facing modules,
-audit, reproducible package configuration, and coverage documentation extend
-that development. Original notices are retained; no replacement license is
-asserted for upstream material.
-
-Pinned Lean: `v4.33.0-rc1`. Pinned Mathlib:
-`79d0395a1825a6264ad5d269e35e60537518955e`. All transitive dependency revisions
-are recorded in `lake-manifest.json`. The source manuscript's metadata and SHA256
-are recorded in `verification/manuscript.json`.
-
-The local host required a narrow executable-path compatibility shim; it does
-not modify Lean or its proof checker. `docs/runtime.md` records this detail.
-Ordinary installations should use the reproduction commands above directly.
 
 ## Manuscript qualifications
 
