@@ -19,13 +19,13 @@ measures on Euclidean space concentrated on the closed radius-M ball, in any
 natural dimension and for M >= 0. It proves finiteness as well as
 
 $$
-\mathrm{KL} \left( \mathbb{P}_{\pi} \| \mathbb{P}_{\eta} \right) + \mathrm{KL} \left( \mathbb{P}_{\eta} \| \mathbb{P}_{\pi} \right)
-\leq \left( 2 M^2 + 4 \right) \mathrm{H}^2 \left( \mathbb{P}_{\pi}, \mathbb{P}_{\eta} \right).
+\textsf{KL} \left( \mathbb{P}_{\pi} \| \mathbb{P}_{\eta} \right) + \textsf{KL} \left( \mathbb{P}_{\eta} \| \mathbb{P}_{\pi} \right)
+\leq \left( 2 M^2 + 4 \right) \textsf{H}^2 \left( \mathbb{P}_{\pi}, \mathbb{P}_{\eta} \right).
 $$
 
 $$
-\max\{\chi^2(P_\mu\|P_\nu),\chi^2(P_\nu\|P_\mu)\}
-\le (18e^{4M^2}-2)H^2(P_\mu,P_\nu).
+\max \left\{ \chi^2 \left( \mathbb{P}_{\pi} \| \mathbb{P}_{\eta} \right), \chi^2 \left( \mathbb{P}_{\eta} \| \mathbb{P}_{\pi} \right) \right\}
+\leq \left\{ 18 \exp \left( 4 M^2 \right) - 2 \right\} \textsf{H}^2 \left( \mathbb{P}_{\pi}, \mathbb{P}_{\eta} \right).
 $$
 
 The densities are actual Gaussian convolution integrals. Squared Hellinger
