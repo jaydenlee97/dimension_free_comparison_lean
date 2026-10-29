@@ -25,7 +25,7 @@ $$
 
 $$
 \max \left\{ \chi^2 \left( \mathbb{P}_{\pi} \| \mathbb{P}_{\eta} \right), \chi^2 \left( \mathbb{P}_{\eta} \| \mathbb{P}_{\pi} \right) \right\}
-\leq \left\{ 18 \exp \left( 4 M^2 \right) - 2 \right\} \textsf{H}^2 \left( \mathbb{P}_{\pi}, \mathbb{P}_{\eta} \right).
+\leq \left( 18 \exp \left( 4 M^2 \right) - 2 \right) \textsf{H}^2 \left( \mathbb{P}_{\pi}, \mathbb{P}_{\eta} \right).
 $$
 
 The densities are actual Gaussian convolution integrals. Squared Hellinger
