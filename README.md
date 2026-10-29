@@ -105,8 +105,3 @@ from the local run.
 | [lean-toolchain](lean-toolchain), [lakefile.toml](lakefile.toml), [lake-manifest.json](lake-manifest.json) | Pinned, reproducible dependencies |
 | [verification/](verification/) | Required endpoints, provenance and retained local evidence |
 | [.github/workflows/lean.yml](.github/workflows/lean.yml) | Build and audit on pushes and pull requests |
-
-The presentation follows the public entry-point and verification structure of
-[passk-lean](https://github.com/chandramaulichak108/passk-lean) and
-[bcsi-lean-verification](https://github.com/congma1028/bcsi-lean-verification).
-See [reference notes](docs/reference-repositories.md) for the comparison.
